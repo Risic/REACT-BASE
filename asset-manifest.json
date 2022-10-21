@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/REACT-BASE/static/css/main.853fce0f.css",
+    "main.js": "/REACT-BASE/static/js/main.028e479e.js",
+    "static/media/Ray.jpg": "/REACT-BASE/static/media/Ray.19025a32080d802c43ff.jpg",
+    "static/media/Anakin.webp": "/REACT-BASE/static/media/Anakin.e92f20decf14bdbb5095.webp",
+    "static/media/like.svg": "/REACT-BASE/static/media/like.f007a8c1a41fd7f514ad858afe9b5c45.svg",
+    "static/media/share.svg": "/REACT-BASE/static/media/share.77df965bd9f329a72825351fe6c97371.svg",
+    "static/media/comment.svg": "/REACT-BASE/static/media/comment.7e5901c586cc1051b6abd68eb95ab0e6.svg",
+    "index.html": "/REACT-BASE/index.html",
+    "static/media/reply.svg": "/REACT-BASE/static/media/reply.9b46f8d062344d0069e4534feda49c83.svg",
+    "main.853fce0f.css.map": "/REACT-BASE/static/css/main.853fce0f.css.map",
+    "main.028e479e.js.map": "/REACT-BASE/static/js/main.028e479e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.853fce0f.css",
+    "static/js/main.028e479e.js"
+  ]
+}
